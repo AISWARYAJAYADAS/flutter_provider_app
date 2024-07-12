@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Certified Supervisor - Certificate III Educator",
+    "duration": 3,
+    "details": "Details of Vacancy 1",
+    "allocatedEmployee": "",
+    "timeRange": "08:00 - 14:00",
+    "startDate": "2022-12-12",
+    "endDate": "2022-12-14"
+  },
+  {
+    "id": 2,
+    "title": "Diploma Trainer Educator",
+    "duration": 2,
+    "details": "Details of Vacancy 2",
+    "allocatedEmployee": "John Doe",
+    "timeRange": "8:00 - 14:00",
+    "startDate": "2022-12-13",
+    "endDate": "2022-12-14"
+  },
+  {
+    "id": 3,
+    "title": "Vacancy 3",
+    "duration": 1,
+    "details": "Details of Vacancy 3",
+    "allocatedEmployee": "",
+    "timeRange": "08:00 - 12:00",
+    "startDate": "2022-12-14",
+    "endDate": "2022-12-14"
+  },
+  {
+    "id": 4,
+    "title": "Vacancy 4",
+    "duration": 2,
+    "details": "Details of Vacancy 4",
+    "allocatedEmployee": "Jane Smith",
+    "timeRange": "12:00 - 16:00",
+    "startDate": "2022-12-15",
+    "endDate": "2022-12-16"
+  },
+  {
+    "id": 5,
+    "title": "Vacancy 5",
+    "duration": 1,
+    "details": "Details of Vacancy 5",
+    "allocatedEmployee": "",
+    "timeRange": "08:00 - 12:00",
+    "startDate": "2022-12-16",
+    "endDate": "2022-12-16"
+  }
+]
