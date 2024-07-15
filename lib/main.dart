@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:job_scheduler_app/providers/bottom_navigation_provider.dart';
+import 'package:job_scheduler_app/providers/grouping_provider.dart';
 import 'package:job_scheduler_app/providers/tab_provider.dart';
 import 'package:job_scheduler_app/providers/vacancy_provider.dart';
 import 'package:job_scheduler_app/screens/bottom_bar/roster_screen.dart';
@@ -14,6 +15,7 @@ void main() {
         ChangeNotifierProvider(create: (context) => TabProvider()),
         ChangeNotifierProvider(create: (context) => VacancyProvider()),
         ChangeNotifierProvider(create: (context) => BottomNavigationProvider()),
+        ChangeNotifierProvider(create: (context) => GroupingProvider()),
 
 
       ],
